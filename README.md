@@ -10,8 +10,8 @@ Comandos de git
 • git config --global user.name "eliuthLarios"
 • git config --unset user.mail/user.name
 • git config --get user.mail/unser.mail
-git config --global --unset user.name
-git config --global --unset user.email
+• git config --global --unset user.name
+• git config --global --unset user.email
 
 • ctrl + L  //Limpiar terminal
 •  git log //Ver las versiones "commits" confirmadas
