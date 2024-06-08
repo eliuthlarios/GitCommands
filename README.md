@@ -1,6 +1,6 @@
 Comandos de git
 
-• git --version  // /*Ver la version de git*/
+• git --version  <<Ver la version de git>>
 • git init //Crear un repositorio local
 • git status
 • git add  .  //Subir cambios de manera general
