@@ -45,4 +45,4 @@ nota: Luego en teoria  de haber creado la clave en la cuenta de github le damos 
 • git push -u/git push --set-upstream origin masternota; En dado caso se repite todo lo anterior buscar ssh agent en la parte de abajo de la documentacion para no tener que agregar la contraseña tantas veces
  
 
-delete later
+delete later ererf
