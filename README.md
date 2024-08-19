@@ -1,6 +1,6 @@
 Comandos de git
 
-• git --version  // Ver la version de git
+• git --version  <<Ver la version de git>>
 • git init //Crear un repositorio local
 • git status
 • git add  .  //Subir cambios de manera general
@@ -10,8 +10,8 @@ Comandos de git
 • git config --global user.name "eliuthLarios"
 • git config --unset user.mail/user.name
 • git config --get user.mail/unser.mail
-git config --global --unset user.name
-git config --global --unset user.email
+• git config --global --unset user.name
+• git config --global --unset user.email
 
 • ctrl + L  //Limpiar terminal
 •  git log //Ver las versiones "commits" confirmadas
@@ -42,6 +42,7 @@ nota; Para crear una clave ssh añadimos el comando anterior  en un nuevo bash y
 nota; Luego pegar la clave criptografiada  en SSH AND GPG keys usando el siguiente comando
 • cat <<ide_ed234324>>  //Un ejemplo del codigo
 nota: Luego en teoria  de haber creado la clave en la cuenta de github le damos "yes"  al colocar el siguiente comando nos pedira la contraseña.
-• git push -u/git push --set-upstream origin master
-nota; En dado caso se repite todo lo anterior buscar ssh agent en la parte de abajo de la documentacion para no tener que agregar la contraseña tantas veces 
+• git push -u/git push --set-upstream origin masternota; En dado caso se repite todo lo anterior buscar ssh agent en la parte de abajo de la documentacion para no tener que agregar la contraseña tantas veces
+ 
+
 delete later
