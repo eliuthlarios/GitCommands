@@ -43,4 +43,5 @@ nota; Luego pegar la clave criptografiada  en SSH AND GPG keys usando el siguien
 • cat <<ide_ed234324>>  //Un ejemplo del codigo
 nota: Luego en teoria  de haber creado la clave en la cuenta de github le damos "yes"  al colocar el siguiente comando nos pedira la contraseña.
 • git push -u/git push --set-upstream origin master
-nota; En dado caso se repite todo lo anterior buscar ssh agent en la parte de abajo de la documentacion para no tener que agregar la contraseña tantas veces
+nota; En dado caso se repite todo lo anterior buscar ssh agent en la parte de abajo de la documentacion para no tener que agregar la contraseña tantas veces 
+delete later
